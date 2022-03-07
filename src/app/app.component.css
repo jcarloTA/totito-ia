@@ -1,0 +1,66 @@
+
+.title {
+    font-size: 4rem;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.content-container {
+
+}
+.line {
+    /* border: 1px solid green; */
+    display: flex;
+
+}
+
+.box {
+    border: 1px solid;
+    width: 7rem;
+    height: 7rem;
+}
+
+.box-text {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+}
+
+.bottom-content {
+    margin-top: 2rem;
+}
+
+.bottom-content-text {
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+
+.save-content {
+    margin-top: 1rem;
+}
+
+.save-content-text {
+    font-size: 2rem;
+}
+
+.win-container {
+    margin-top: 1rem;
+}
+
+.win-text {
+    margin: 0;
+    font-size: 4rem;
+    color: green;
+    font-weight: bold;
+}
+
+
+
